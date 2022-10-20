@@ -1,3 +1,4 @@
+/*
 $(function () {
   let $z = $("<a id='newElement'>cats</a>");
 
@@ -13,3 +14,4 @@ $(function () {
 
   // $("body").append(typeof $z);
 });
+*/
