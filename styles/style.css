@@ -12,12 +12,22 @@ body{
 .card-title{
   font-family: 'Gaegu', cursive;
   font-size: 30px;
+  text-align: center;
 }
 
 .card{
   margin-top: 20px;
   margin-bottom: 20px;
   background-color:#fbf9ff;
+}
+
+#button{
+  color: black;
+  background-color: #e1d7f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
 #collapsibleNavbar{
@@ -77,11 +87,6 @@ body{
 
 .dropdown:hover .dropbtn {background-color: #7E57C2;}
 
-#button{
-  color: black;
-  background-color: #D1C4E9;
-  margin-left: 55px;
-}
 
 /*
 .footer { 
